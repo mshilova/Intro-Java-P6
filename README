@@ -1,0 +1,7 @@
+Applet program to draw a line, oval, arc, and a polygon using a JComboBox. 
+Radio Buttons will select a color. A bounding rectangle is drawn showing 
+the boundaries of the drawing area. Implements ActionListener and ItemListener 
+interfaces.
+
+To run type:
+             appletviewer P6run.html
